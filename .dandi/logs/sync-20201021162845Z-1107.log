@@ -1,0 +1,327 @@
+2020-10-21T12:28:46-0400 [INFO    ] dandi Traversing remote dandisets (000007) recursively
+2020-10-21T12:28:46-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-21T12:28:49-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314746/sub-anm00314746_ses-20151020T093604.nwb
+2020-10-21T12:28:49-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b0/6d/b06da4668d084ce385f4313d1ecd2b36 -> /mnt/backup/dandi/dandisets/000007/sub-anm00314746/sub-anm00314746_ses-20151020T093604.nwb
+2020-10-21T12:28:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:50-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b0/6d/b06da4668d084ce385f4313d1ecd2b36?versionId=McUORc9VRaMeNnrKxDokKxbmOoOtDU6X to asset
+2020-10-21T12:28:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314746/sub-anm00314746_ses-20151021T112541.nwb
+2020-10-21T12:28:50-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:51-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:51-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/29/0e/290e28a1cf4b40819371008ad4ac3678 -> /mnt/backup/dandi/dandisets/000007/sub-anm00314746/sub-anm00314746_ses-20151021T112541.nwb
+2020-10-21T12:28:51-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/29/0e/290e28a1cf4b40819371008ad4ac3678?versionId=xEdRRgArAqK4TaayzTbq0YnZSPsbBo6G to asset
+2020-10-21T12:28:51-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314746/sub-anm00314746_ses-20151022T151738.nwb
+2020-10-21T12:28:51-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ab/4f/ab4f9e8cd4224f7a9a77b2fb7959a067 -> /mnt/backup/dandi/dandisets/000007/sub-anm00314746/sub-anm00314746_ses-20151022T151738.nwb
+2020-10-21T12:28:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ab/4f/ab4f9e8cd4224f7a9a77b2fb7959a067?versionId=9UWFeNkgjIc.gnHLxBEHeWC_xMmGT0oe to asset
+2020-10-21T12:28:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314756/sub-anm00314756_ses-20151020T194211.nwb
+2020-10-21T12:28:52-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/45/6b/456bbb64e2ed47bcabe7b705690f1f0c -> /mnt/backup/dandi/dandisets/000007/sub-anm00314756/sub-anm00314756_ses-20151020T194211.nwb
+2020-10-21T12:28:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/45/6b/456bbb64e2ed47bcabe7b705690f1f0c?versionId=OczT_T.Y69ogkhf9JGZPT5EFtJj_5kJ1 to asset
+2020-10-21T12:28:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314756/sub-anm00314756_ses-20151023T141029.nwb
+2020-10-21T12:28:53-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cf/a1/cfa1f3131b0d4baaab6a2ca992982994 -> /mnt/backup/dandi/dandisets/000007/sub-anm00314756/sub-anm00314756_ses-20151023T141029.nwb
+2020-10-21T12:28:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cf/a1/cfa1f3131b0d4baaab6a2ca992982994?versionId=9_JMfy7c4UO4LAlEfAnLH.h2Qr5gL.Up to asset
+2020-10-21T12:28:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314757/sub-anm00314757_ses-20151020T173731.nwb
+2020-10-21T12:28:53-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:54-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:54-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ef/c7/efc742ee33ee4b12bb1b87acea5ea881 -> /mnt/backup/dandi/dandisets/000007/sub-anm00314757/sub-anm00314757_ses-20151020T173731.nwb
+2020-10-21T12:28:54-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:54-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ef/c7/efc742ee33ee4b12bb1b87acea5ea881?versionId=apvfoUiXCEFmtAzBDSMQQfwf8PMxW6yN to asset
+2020-10-21T12:28:54-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314757/sub-anm00314757_ses-20151021T180248.nwb
+2020-10-21T12:28:54-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e2/9a/e29a438993b14cbebc666c5549634923 -> /mnt/backup/dandi/dandisets/000007/sub-anm00314757/sub-anm00314757_ses-20151021T180248.nwb
+2020-10-21T12:28:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e2/9a/e29a438993b14cbebc666c5549634923?versionId=xuum6C9yRPuhinRZy3XaNwN0kCr8mKWK to asset
+2020-10-21T12:28:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314758/sub-anm00314758_ses-20151020T104930.nwb
+2020-10-21T12:28:55-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/fc/03/fc032268a5344b0f9ef924c128cdd1dc -> /mnt/backup/dandi/dandisets/000007/sub-anm00314758/sub-anm00314758_ses-20151020T104930.nwb
+2020-10-21T12:28:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/fc/03/fc032268a5344b0f9ef924c128cdd1dc?versionId=Oh9lBkzT5oQZkXAA5K_91QEEPZOsz07i to asset
+2020-10-21T12:28:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314758/sub-anm00314758_ses-20151021T101014.nwb
+2020-10-21T12:28:56-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:56-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/38/3a/383a126f527a4f7483e21306058a58a8 -> /mnt/backup/dandi/dandisets/000007/sub-anm00314758/sub-anm00314758_ses-20151021T101014.nwb
+2020-10-21T12:28:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/38/3a/383a126f527a4f7483e21306058a58a8?versionId=GKe7fkXSjvSX4aPgBFyTpUJ.CiifFURb to asset
+2020-10-21T12:28:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314758/sub-anm00314758_ses-20151022T112047.nwb
+2020-10-21T12:28:56-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ba/f6/baf600ef7afc46fea5e0607d6e725521 -> /mnt/backup/dandi/dandisets/000007/sub-anm00314758/sub-anm00314758_ses-20151022T112047.nwb
+2020-10-21T12:28:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:57-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ba/f6/baf600ef7afc46fea5e0607d6e725521?versionId=p0H4nDYD.HCHf66hZkJ7yRAnWe6bCdl. to asset
+2020-10-21T12:28:57-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314758/sub-anm00314758_ses-20151023T094901.nwb
+2020-10-21T12:28:57-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3f/74/3f74ae30013a47779e0b0b6fba2b16d6 -> /mnt/backup/dandi/dandisets/000007/sub-anm00314758/sub-anm00314758_ses-20151023T094901.nwb
+2020-10-21T12:28:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3f/74/3f74ae30013a47779e0b0b6fba2b16d6?versionId=SKDdWncNDxM84Lb4QAdk.fzi0D2fZw6x to asset
+2020-10-21T12:28:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314760/sub-anm00314760_ses-20151020T155230.nwb
+2020-10-21T12:28:58-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:58-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:58-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8f/5e/8f5e9da3096b4df08c35c50f9d35dd3c -> /mnt/backup/dandi/dandisets/000007/sub-anm00314760/sub-anm00314760_ses-20151020T155230.nwb
+2020-10-21T12:28:58-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8f/5e/8f5e9da3096b4df08c35c50f9d35dd3c?versionId=Te_wQ4qld_uVh8dAe2a9xAgo849VE8bb to asset
+2020-10-21T12:28:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314760/sub-anm00314760_ses-20151021T164427.nwb
+2020-10-21T12:28:59-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:28:59-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:28:59-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3b/3d/3b3d8b306dde405390a0522068ee9840 -> /mnt/backup/dandi/dandisets/000007/sub-anm00314760/sub-anm00314760_ses-20151021T164427.nwb
+2020-10-21T12:28:59-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:28:59-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3b/3d/3b3d8b306dde405390a0522068ee9840?versionId=4..7tWr19htwBxVzk6c_GzP2Hv_K7Vbe to asset
+2020-10-21T12:28:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-anm00314760/sub-anm00314760_ses-20151022T163913.nwb
+2020-10-21T12:28:59-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:00-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:00-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a8/9c/a89c6689491d4a0eb0d606aa6a7d534d -> /mnt/backup/dandi/dandisets/000007/sub-anm00314760/sub-anm00314760_ses-20151022T163913.nwb
+2020-10-21T12:29:00-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a8/9c/a89c6689491d4a0eb0d606aa6a7d534d?versionId=gNlu.G5PIfO7QhaIK6pkRjp_r0gUY6vk to asset
+2020-10-21T12:29:00-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD12/sub-BAYLORCD12_ses-20180125T191601.nwb
+2020-10-21T12:29:00-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:00-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:00-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b2/62/b262b2338cc84cd3b9aa74c82624a2cd -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD12/sub-BAYLORCD12_ses-20180125T191601.nwb
+2020-10-21T12:29:00-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b2/62/b262b2338cc84cd3b9aa74c82624a2cd?versionId=n_8KGzAqbCSfp3eTh_ny39HXohf0dcBv to asset
+2020-10-21T12:29:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD12/sub-BAYLORCD12_ses-20180126T122506.nwb
+2020-10-21T12:29:01-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/db/b1/dbb1703ff3c045a78c324eb3d8c3c926 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD12/sub-BAYLORCD12_ses-20180126T122506.nwb
+2020-10-21T12:29:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:01-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/db/b1/dbb1703ff3c045a78c324eb3d8c3c926?versionId=9JC19sZFbTXYa3Ko2cy4CCypUxzaM9BC to asset
+2020-10-21T12:29:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD12/sub-BAYLORCD12_ses-20180128T220037.nwb
+2020-10-21T12:29:01-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:02-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:02-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/84/3a/843a17cc52404738ab1696332114c364 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD12/sub-BAYLORCD12_ses-20180128T220037.nwb
+2020-10-21T12:29:02-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:02-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/84/3a/843a17cc52404738ab1696332114c364?versionId=lCrVdUJXpPIjnJOLH4tQ7KJkrQ3qY6o2 to asset
+2020-10-21T12:29:02-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD12/sub-BAYLORCD12_ses-20180129T160551.nwb
+2020-10-21T12:29:02-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:02-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:02-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a2/0b/a20b1ec7ae4e4fbf8b955b6651263009 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD12/sub-BAYLORCD12_ses-20180129T160551.nwb
+2020-10-21T12:29:02-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:03-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a2/0b/a20b1ec7ae4e4fbf8b955b6651263009?versionId=HTW66avYTLJUS_razvWuKfCiBbhHJwwe to asset
+2020-10-21T12:29:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD12/sub-BAYLORCD12_ses-20180130T153224.nwb
+2020-10-21T12:29:03-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:04-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:04-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/80/2a/802a8c50a55c44a8897dcc5f981b12dc -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD12/sub-BAYLORCD12_ses-20180130T153224.nwb
+2020-10-21T12:29:04-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/80/2a/802a8c50a55c44a8897dcc5f981b12dc?versionId=vBSYsni.6VeSmk46JQXr9pSRWkjRNAKY to asset
+2020-10-21T12:29:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD13/sub-BAYLORCD13_ses-20171211T135437.nwb
+2020-10-21T12:29:04-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:05-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:05-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/95/9e/959e6ef6e21c4c4b8805c30176afea0a -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD13/sub-BAYLORCD13_ses-20171211T135437.nwb
+2020-10-21T12:29:05-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:05-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/95/9e/959e6ef6e21c4c4b8805c30176afea0a?versionId=NrFuqRkCjb0fiUd1fgP3owEgRg07fe.v to asset
+2020-10-21T12:29:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD13/sub-BAYLORCD13_ses-20171212T131814.nwb
+2020-10-21T12:29:06-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:06-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:06-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d3/bc/d3bc4dd0667a43d2b9bc17359d6addf3 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD13/sub-BAYLORCD13_ses-20171212T131814.nwb
+2020-10-21T12:29:06-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:06-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d3/bc/d3bc4dd0667a43d2b9bc17359d6addf3?versionId=isdcgB_kKvsbMgy9AYHD0kqUXf9D8znY to asset
+2020-10-21T12:29:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD13/sub-BAYLORCD13_ses-20171213T135007.nwb
+2020-10-21T12:29:06-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:07-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:07-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/53/ac/53ac3cfcef0a45719c06488e1fd7eb42 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD13/sub-BAYLORCD13_ses-20171213T135007.nwb
+2020-10-21T12:29:07-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:07-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/53/ac/53ac3cfcef0a45719c06488e1fd7eb42?versionId=wyiiYHz6JzP5ylw4Y3MK42VgyfRZ1rsM to asset
+2020-10-21T12:29:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD13/sub-BAYLORCD13_ses-20171214T103426.nwb
+2020-10-21T12:29:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:07-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:07-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/49/6b/496b3f62f9de45de85fbbc4eaf50ec9c -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD13/sub-BAYLORCD13_ses-20171214T103426.nwb
+2020-10-21T12:29:07-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:07-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/49/6b/496b3f62f9de45de85fbbc4eaf50ec9c?versionId=wKCUZYiaYhJuQANuw71X1V4SW9DqfTWh to asset
+2020-10-21T12:29:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD13/sub-BAYLORCD13_ses-20171215T133939.nwb
+2020-10-21T12:29:08-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:08-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:08-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c0/ff/c0fff6d58dad423e836c1305a6e814e7 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD13/sub-BAYLORCD13_ses-20171215T133939.nwb
+2020-10-21T12:29:08-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:08-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c0/ff/c0fff6d58dad423e836c1305a6e814e7?versionId=8qUrpXHua4v6SZSEVGZR9gD2shKVIOZc to asset
+2020-10-21T12:29:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD14/sub-BAYLORCD14_ses-20171024T112103.nwb
+2020-10-21T12:29:08-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:09-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:09-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/40/62/406293131f6241beb672fa961895180f -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD14/sub-BAYLORCD14_ses-20171024T112103.nwb
+2020-10-21T12:29:09-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/40/62/406293131f6241beb672fa961895180f?versionId=vdN1_ijvGtaWD5FMa43wMVS75qzyu.Og to asset
+2020-10-21T12:29:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD14/sub-BAYLORCD14_ses-20171025T114022.nwb
+2020-10-21T12:29:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:09-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:09-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/82/9d/829dd5efb686474ebe46056304ba0d78 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD14/sub-BAYLORCD14_ses-20171025T114022.nwb
+2020-10-21T12:29:09-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:10-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/82/9d/829dd5efb686474ebe46056304ba0d78?versionId=CXTzi.YDGFhQm5gJgji7Vjy2L_9VNLNO to asset
+2020-10-21T12:29:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD14/sub-BAYLORCD14_ses-20171026T150956.nwb
+2020-10-21T12:29:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ee/56/ee561c7950fe4b558f34c4fc0322a0d0 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD14/sub-BAYLORCD14_ses-20171026T150956.nwb
+2020-10-21T12:29:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:10-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ee/56/ee561c7950fe4b558f34c4fc0322a0d0?versionId=ml7iNb9hO2du0cKGq17mp4EO.a9NpLNs to asset
+2020-10-21T12:29:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD14/sub-BAYLORCD14_ses-20171027T115804.nwb
+2020-10-21T12:29:11-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:11-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:11-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ba/69/ba69229cf6fa44d8b683620186ee07e7 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD14/sub-BAYLORCD14_ses-20171027T115804.nwb
+2020-10-21T12:29:11-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:11-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ba/69/ba69229cf6fa44d8b683620186ee07e7?versionId=cdtay7Lep3jZLP4S7FYktSrnoS7fDY6f to asset
+2020-10-21T12:29:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD14/sub-BAYLORCD14_ses-20171028T165746.nwb
+2020-10-21T12:29:11-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:12-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:12-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c0/fb/c0fb07f57fd74b03bfb96c6874a2638d -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD14/sub-BAYLORCD14_ses-20171028T165746.nwb
+2020-10-21T12:29:12-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:12-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c0/fb/c0fb07f57fd74b03bfb96c6874a2638d?versionId=tg5v1nEbd_EgtzZJGzs2gQ3FW6C6oeAb to asset
+2020-10-21T12:29:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD6/sub-BAYLORCD6_ses-20170610T135720.nwb
+2020-10-21T12:29:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:13-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:13-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/03/41/034133af64c04b77aa0e0b02b719e01e -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD6/sub-BAYLORCD6_ses-20170610T135720.nwb
+2020-10-21T12:29:13-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:13-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/03/41/034133af64c04b77aa0e0b02b719e01e?versionId=W5XAcpGA6joDxwZ7rl8enidP3ysUs06a to asset
+2020-10-21T12:29:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD6/sub-BAYLORCD6_ses-20170611T140007.nwb
+2020-10-21T12:29:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:14-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:14-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/68/46/68466b33d0d543c7a4332e143a9e7df1 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD6/sub-BAYLORCD6_ses-20170611T140007.nwb
+2020-10-21T12:29:14-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:14-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/68/46/68466b33d0d543c7a4332e143a9e7df1?versionId=8LgSC66flZAc6k1cg5dMgBWyDXg4jNw5 to asset
+2020-10-21T12:29:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD6/sub-BAYLORCD6_ses-20170612T125622.nwb
+2020-10-21T12:29:14-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:14-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:14-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/28/29/2829bc0c07b84e0e941c5da0919cb831 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD6/sub-BAYLORCD6_ses-20170612T125622.nwb
+2020-10-21T12:29:14-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:15-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/28/29/2829bc0c07b84e0e941c5da0919cb831?versionId=RYjv.lHvAKbItPlV8QXM4EWYjpNr7IaL to asset
+2020-10-21T12:29:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD6/sub-BAYLORCD6_ses-20170614T111143.nwb
+2020-10-21T12:29:15-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:15-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:15-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f7/87/f787441afb1446ef83b2199b9d1a896a -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD6/sub-BAYLORCD6_ses-20170614T111143.nwb
+2020-10-21T12:29:15-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:15-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f7/87/f787441afb1446ef83b2199b9d1a896a?versionId=Vg00XJmSEfsmO2dwVUGFA2OqGl38O5CO to asset
+2020-10-21T12:29:16-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD8/sub-BAYLORCD8_ses-20171016T121417.nwb
+2020-10-21T12:29:16-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:16-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:16-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0b/fe/0bfe1ab9545148fb811468ed2c189a68 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD8/sub-BAYLORCD8_ses-20171016T121417.nwb
+2020-10-21T12:29:16-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:17-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0b/fe/0bfe1ab9545148fb811468ed2c189a68?versionId=UZw8bF_3NXCoaZ2HDcSBCm0fFQCHQavk to asset
+2020-10-21T12:29:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD8/sub-BAYLORCD8_ses-20171017T114425.nwb
+2020-10-21T12:29:17-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ef/a0/efa0f7a85a0f4cd290f0e9c39720e667 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD8/sub-BAYLORCD8_ses-20171017T114425.nwb
+2020-10-21T12:29:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:18-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ef/a0/efa0f7a85a0f4cd290f0e9c39720e667?versionId=KnFgOem12eEOAaCG1o2NQTrsXqn2WQta to asset
+2020-10-21T12:29:18-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD8/sub-BAYLORCD8_ses-20171018T123550.nwb
+2020-10-21T12:29:18-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:18-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:18-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/55/29/55294d09bbae47a6b6ec9065bf745be7 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD8/sub-BAYLORCD8_ses-20171018T123550.nwb
+2020-10-21T12:29:18-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:19-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/55/29/55294d09bbae47a6b6ec9065bf745be7?versionId=HrtMBN6GF0JIel1JLHOhdjXuuF.Pdwwh to asset
+2020-10-21T12:29:19-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD8/sub-BAYLORCD8_ses-20171019T123347.nwb
+2020-10-21T12:29:19-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:19-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:19-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f5/32/f532565917ab4828891e3a74ee82d17a -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD8/sub-BAYLORCD8_ses-20171019T123347.nwb
+2020-10-21T12:29:19-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:20-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f5/32/f532565917ab4828891e3a74ee82d17a?versionId=hclnwYU19WhceuM9yZDxc5rTT8YAzlZu to asset
+2020-10-21T12:29:20-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORCD8/sub-BAYLORCD8_ses-20171020T124659.nwb
+2020-10-21T12:29:20-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:20-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:20-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3f/05/3f057ee564f74504b2a0391fc7f936f4 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORCD8/sub-BAYLORCD8_ses-20171020T124659.nwb
+2020-10-21T12:29:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:20-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3f/05/3f057ee564f74504b2a0391fc7f936f4?versionId=7p9FMwOvv4cKald7W51MDqdoMt5.RUWV to asset
+2020-10-21T12:29:21-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL12/sub-BAYLORNL12_ses-20170610T122530.nwb
+2020-10-21T12:29:21-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:21-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:21-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/77/6a/776aa8b6b62f46268d52afa688bb756e -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL12/sub-BAYLORNL12_ses-20170610T122530.nwb
+2020-10-21T12:29:21-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:21-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/77/6a/776aa8b6b62f46268d52afa688bb756e?versionId=0P1PW7xC2ssMc8fcwMz9WGrIv2OAULk. to asset
+2020-10-21T12:29:21-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL12/sub-BAYLORNL12_ses-20170611T124136.nwb
+2020-10-21T12:29:21-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/2c/10/2c1057be2ba641959ed3e8c479b6531d -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL12/sub-BAYLORNL12_ses-20170611T124136.nwb
+2020-10-21T12:29:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/2c/10/2c1057be2ba641959ed3e8c479b6531d?versionId=D3zwf0r8FfN5GlwQfgBXPt8aHyQPRMi3 to asset
+2020-10-21T12:29:22-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL12/sub-BAYLORNL12_ses-20170612T115219.nwb
+2020-10-21T12:29:22-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e3/5e/e35e06ef1251456584e63d2ff55f446b -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL12/sub-BAYLORNL12_ses-20170612T115219.nwb
+2020-10-21T12:29:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e3/5e/e35e06ef1251456584e63d2ff55f446b?versionId=wmDNp2888JEUR8DKpHnXfidnahcZKprR to asset
+2020-10-21T12:29:24-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL12/sub-BAYLORNL12_ses-20170613T123812.nwb
+2020-10-21T12:29:24-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/82/dd/82ddc8937b8040deaab99e24b59e4b94 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL12/sub-BAYLORNL12_ses-20170613T123812.nwb
+2020-10-21T12:29:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:24-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/82/dd/82ddc8937b8040deaab99e24b59e4b94?versionId=2vEj1ciEnW4ptcTqs_qSGeVOzdOrCb7z to asset
+2020-10-21T12:29:24-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL12/sub-BAYLORNL12_ses-20170614T094441.nwb
+2020-10-21T12:29:24-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/01/ff/01fff7d92d1f4558ab979496c1373636 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL12/sub-BAYLORNL12_ses-20170614T094441.nwb
+2020-10-21T12:29:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/01/ff/01fff7d92d1f4558ab979496c1373636?versionId=uB5wSnEPCoVUKcIVDa8TNvUcTazSSOFJ to asset
+2020-10-21T12:29:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL14/sub-BAYLORNL14_ses-20170602T114550.nwb
+2020-10-21T12:29:25-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/da/c6/dac675d96f6945f395d32d151b7b115b -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL14/sub-BAYLORNL14_ses-20170602T114550.nwb
+2020-10-21T12:29:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:26-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/da/c6/dac675d96f6945f395d32d151b7b115b?versionId=D5AUZmWvGEX_Z.m75dQcB_JCfz3WtCJs to asset
+2020-10-21T12:29:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL14/sub-BAYLORNL14_ses-20170603T153540.nwb
+2020-10-21T12:29:26-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1c/74/1c740765195b49eea88c45df011bcc1b -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL14/sub-BAYLORNL14_ses-20170603T153540.nwb
+2020-10-21T12:29:26-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:27-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1c/74/1c740765195b49eea88c45df011bcc1b?versionId=NMsGCAo1.Ls4Kv1B8EIlfPs0bbiBxCeX to asset
+2020-10-21T12:29:27-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL14/sub-BAYLORNL14_ses-20170604T150059.nwb
+2020-10-21T12:29:27-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:27-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:27-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/04/b4/04b4d8015fd8492cb495c158e095524b -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL14/sub-BAYLORNL14_ses-20170604T150059.nwb
+2020-10-21T12:29:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:28-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/04/b4/04b4d8015fd8492cb495c158e095524b?versionId=H6hkUCxkoW9h84p_SlslzMAehDgcHyTh to asset
+2020-10-21T12:29:29-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL14/sub-BAYLORNL14_ses-20170605T123139.nwb
+2020-10-21T12:29:29-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:29-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:29-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/13/b4/13b4fea6a56a475384771a53265bc97b -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL14/sub-BAYLORNL14_ses-20170605T123139.nwb
+2020-10-21T12:29:29-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/13/b4/13b4fea6a56a475384771a53265bc97b?versionId=C6zsjdiqneBhdKPFH25EBR9DpdMNsiJE to asset
+2020-10-21T12:29:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL14/sub-BAYLORNL14_ses-20170606T094050.nwb
+2020-10-21T12:29:30-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cd/b1/cdb1041c0f774ee591480762c124fdee -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL14/sub-BAYLORNL14_ses-20170606T094050.nwb
+2020-10-21T12:29:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:30-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cd/b1/cdb1041c0f774ee591480762c124fdee?versionId=vRjmRkGLAmfEnQojptbjbTqzhOdfTCiX to asset
+2020-10-21T12:29:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL14/sub-BAYLORNL14_ses-20170607T130355.nwb
+2020-10-21T12:29:30-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/21/20/21202542c08d4bbe9d427d411ebae1e2 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL14/sub-BAYLORNL14_ses-20170607T130355.nwb
+2020-10-21T12:29:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/21/20/21202542c08d4bbe9d427d411ebae1e2?versionId=pHZp8.tQ0PPRzHwuqONzwcyCeEiPo_rB to asset
+2020-10-21T12:29:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL15/sub-BAYLORNL15_ses-20170602T095359.nwb
+2020-10-21T12:29:31-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e8/be/e8bee70a565148aea7a23b3c826c003c -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL15/sub-BAYLORNL15_ses-20170602T095359.nwb
+2020-10-21T12:29:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:32-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e8/be/e8bee70a565148aea7a23b3c826c003c?versionId=eZD5fhd0wTKxNV1fnaLnFl4AROi1dj.u to asset
+2020-10-21T12:29:32-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL15/sub-BAYLORNL15_ses-20170603T122807.nwb
+2020-10-21T12:29:32-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:32-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:32-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/61/81/6181b4c57cb04d02852845f3bc9ceb34 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL15/sub-BAYLORNL15_ses-20170603T122807.nwb
+2020-10-21T12:29:32-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/61/81/6181b4c57cb04d02852845f3bc9ceb34?versionId=61EC1orX5udPOTgY6ABx2iCFG2OlqofR to asset
+2020-10-21T12:29:33-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL15/sub-BAYLORNL15_ses-20170604T121032.nwb
+2020-10-21T12:29:33-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:33-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d5/72/d5724a230e234779a678535db303e16d -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL15/sub-BAYLORNL15_ses-20170604T121032.nwb
+2020-10-21T12:29:33-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d5/72/d5724a230e234779a678535db303e16d?versionId=PizMU3YHM0Xd0EkPJfF4br73NZtK9W5y to asset
+2020-10-21T12:29:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL15/sub-BAYLORNL15_ses-20170605T093327.nwb
+2020-10-21T12:29:34-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0c/ed/0ced5e3a232949c5b78c65a1de761a9b -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL15/sub-BAYLORNL15_ses-20170605T093327.nwb
+2020-10-21T12:29:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:34-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0c/ed/0ced5e3a232949c5b78c65a1de761a9b?versionId=A.EH2M_WJspw4hN3iyJzsY6OLVLyLpkh to asset
+2020-10-21T12:29:35-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BAYLORNL15/sub-BAYLORNL15_ses-20170607T094337.nwb
+2020-10-21T12:29:35-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T12:29:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T12:29:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/18/b3/18b3c264d2af4c2086b250c16fe11482 -> /mnt/backup/dandi/dandisets/000007/sub-BAYLORNL15/sub-BAYLORNL15_ses-20170607T094337.nwb
+2020-10-21T12:29:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T12:29:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/18/b3/18b3c264d2af4c2086b250c16fe11482?versionId=e33tHol6XdB6VECbpc9nyp70LQV3tUfR to asset
+2020-10-21T12:29:35-0400 [INFO    ] backups2datalad.py Commiting changes
