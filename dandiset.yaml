@@ -2,68 +2,87 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000007
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.3.0/context.json
+about: []
 access:
-- status: dandi:Open
+- contactPoint:
+    schemaKey: ContactPoint
+  status: dandi:Open
 citation: 'Gao, Zhenyu; Davis, Courtney; Thomas, Alyse M.; Economo, Michael N.; Abrego,
   Amada M.; Svoboda, Karel; Zeeuw, Chris I. De; Li, Nuo (2021) A cortico-cerebellar
   loop for motor planning. Online: https://dandiarchive.org/000007/draft'
 contributor:
-- includeInCitation: true
+- affiliation: []
+  includeInCitation: true
   name: Gao, Zhenyu
   roleName:
   - dandi:Author
   schemaKey: Person
-- includeInCitation: true
+- affiliation: []
+  includeInCitation: true
   name: Davis, Courtney
   roleName:
   - dandi:Author
   schemaKey: Person
-- identifier: 0000-0002-6070-4769
+- affiliation: []
+  identifier: 0000-0002-6070-4769
   includeInCitation: true
   name: Thomas, Alyse M.
   roleName:
   - dandi:Author
   schemaKey: Person
-- identifier: 0000-0001-9893-1505
+- affiliation: []
+  identifier: 0000-0001-9893-1505
   includeInCitation: true
   name: Economo, Michael N.
   roleName:
   - dandi:Author
   schemaKey: Person
-- identifier: 0000-0003-0311-5244
+- affiliation: []
+  identifier: 0000-0003-0311-5244
   includeInCitation: true
   name: Abrego, Amada M.
   roleName:
   - dandi:Author
   schemaKey: Person
-- includeInCitation: true
+- affiliation: []
+  includeInCitation: true
   name: Svoboda, Karel
   roleName:
   - dandi:Author
   schemaKey: Person
-- identifier: 0000-0001-5628-8187
+- affiliation: []
+  identifier: 0000-0001-5628-8187
   includeInCitation: true
   name: Zeeuw, Chris I. De
   roleName:
   - dandi:Author
   schemaKey: Person
-- includeInCitation: true
+- affiliation: []
+  identifier: 0000-0002-6613-5018
+  includeInCitation: true
   name: Li, Nuo
   roleName:
   - dandi:Author
   - dandi:ContactPerson
   schemaKey: Person
 description: Extracelluar recording in ALM
+ethicsApproval: []
 id: 000007/draft
 identifier: DANDI:000007
+keywords: []
 license:
 - spdx:CC-BY-4.0
+manifestLocation: []
 name: A cortico-cerebellar loop for motor planning
+protocol: []
 relatedResource:
 - identifier: doi:10.1038/s41586-018-0633-x
   relation: dandi:IsDescribedBy
   url: https://www.nature.com/articles/s41586-018-0633-x
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
+studyTarget: []
 url: https://dandiarchive.org/000007/draft
 version: draft
+wasGeneratedBy: []
