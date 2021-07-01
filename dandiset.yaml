@@ -8,12 +8,18 @@ access:
     schemaKey: ContactPoint
   status: dandi:OpenAccess
 assetsSummary:
-  approach: []
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
   dataStandard:
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
-  measurementTechnique: []
+  measurementTechnique:
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
   numberOfBytes: 199439472
   numberOfFiles: 54
   numberOfSubjects: 13
@@ -22,7 +28,9 @@ assetsSummary:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
     name: House mouse
     schemaKey: SpeciesType
-  variableMeasured: []
+  variableMeasured:
+  - Units
+  - ElectrodeGroup
 citation: Gao, Zhenyu; Davis, Courtney; Thomas, Alyse M.; Economo, Michael N.; Abrego,
   Amada M.; Svoboda, Karel; Zeeuw, Chris I. De; Li, Nuo (2021) A cortico-cerebellar
   loop for motor planning (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000007/draft
