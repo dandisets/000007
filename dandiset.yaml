@@ -96,7 +96,8 @@ identifier: DANDI:000007
 keywords: []
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000007/versions/draft/assets/
 name: A cortico-cerebellar loop for motor planning
 protocol: []
 relatedResource:
