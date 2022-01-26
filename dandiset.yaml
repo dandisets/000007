@@ -34,7 +34,7 @@ assetsSummary:
   - ElectrodeGroup
 citation: Gao, Zhenyu; Davis, Courtney; Thomas, Alyse M.; Economo, Michael N.; Abrego,
   Amada M.; Svoboda, Karel; Zeeuw, Chris I. De; Li, Nuo (2022) A cortico-cerebellar
-  loop for motor planning (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000007/draft
+  loop for motor planning (Version 0.220126.1903) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000007/0.220126.1903
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -91,17 +91,31 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2020-03-17T15:01:40.811000+00:00'
+datePublished: '2022-01-26T19:03:00.255692+00:00'
 description: Extracellular recording in ALM
+doi: 10.48324/dandi.000007/0.220126.1903
 ethicsApproval: []
-id: DANDI:000007/draft
+id: DANDI:000007/0.220126.1903
 identifier: DANDI:000007
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000007/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000007/0.220126.1903/assets.yaml
 name: A cortico-cerebellar loop for motor planning
 protocol: []
+publishedBy:
+  endDate: '2022-01-26T19:03:00.255692+00:00'
+  id: urn:uuid:f796c118-3bda-424e-b956-e679ac7704e8
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-01-26T19:03:00.255692+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:c994ce5c-24fd-4cab-b36a-e3ab8f6cfc59
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: doi:10.1038/s41586-018-0633-x
   name: A cortico-cerebellar loop for motor planning
@@ -112,6 +126,6 @@ repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000007/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000007/0.220126.1903
+version: 0.220126.1903
 wasGeneratedBy: []
