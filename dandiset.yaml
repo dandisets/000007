@@ -91,7 +91,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2020-03-17T15:01:40.811000+00:00'
-description: Extracelluar recording in ALM
+description: Extracellular recording in ALM
 ethicsApproval: []
 id: DANDI:000007/draft
 identifier: DANDI:000007
@@ -104,6 +104,7 @@ name: A cortico-cerebellar loop for motor planning
 protocol: []
 relatedResource:
 - identifier: doi:10.1038/s41586-018-0633-x
+  name: A cortico-cerebellar loop for motor planning
   relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://www.nature.com/articles/s41586-018-0633-x
