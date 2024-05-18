@@ -33,7 +33,7 @@ assetsSummary:
   - Units
   - ElectrodeGroup
 citation: Gao, Zhenyu; Davis, Courtney; Thomas, Alyse M.; Economo, Michael N.; Abrego,
-  Amada M.; Svoboda, Karel; Zeeuw, Chris I. De; Li, Nuo (2022) A cortico-cerebellar
+  Amada M.; Svoboda, Karel; Zeeuw, Chris I. De; Li, Nuo (2024) A cortico-cerebellar
   loop for motor planning (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000007/draft
 contributor:
 - affiliation: []
@@ -106,9 +106,11 @@ relatedResource:
 - identifier: doi:10.1038/s41586-018-0633-x
   name: A cortico-cerebellar loop for motor planning
   relation: dcite:IsDescribedBy
+  repository: Nature
+  resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.nature.com/articles/s41586-018-0633-x
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
